@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ColorPicker_task3/static/css/main.e6c13ad2.css",
+    "main.js": "/ColorPicker_task3/static/js/main.cda3a10f.js",
+    "index.html": "/ColorPicker_task3/index.html",
+    "main.e6c13ad2.css.map": "/ColorPicker_task3/static/css/main.e6c13ad2.css.map",
+    "main.cda3a10f.js.map": "/ColorPicker_task3/static/js/main.cda3a10f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cda3a10f.js"
+  ]
+}
